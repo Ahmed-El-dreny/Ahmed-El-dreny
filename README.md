@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ayman El-dreny</h1>
+<h1 align="center">Hi <img align="center" src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952zbbomxizw4ctx7hznw7jklv0ijom0ou8vfu5tydz&rid=giphy.gif&ct=s" alt="ahmed-el-dreny" height="30" width="40" />, I'm Ahmed Ayman El-dreny</h1>
 <h3 align="center">Undergraduate mechatronics engineer interested in embedded systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-el-dreny&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-el-dreny" /> </p>
