@@ -20,7 +20,7 @@
 <a href="https://codeforces.com/profile/ahmed_el_dreny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_el_dreny" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_el_dreny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_el_dreny" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahmedeldreny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahmedeldreny" height="30" width="40" /></a>
-<a href="https://discord.gg/Ahmed El-dreny#7856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ahmed El-dreny#7856" height="30" width="40" /></a>
+<a href="https://discord.gg/Ahmed El-dreny#7856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ahmed El-dreny #7856" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
