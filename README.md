@@ -6,9 +6,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmed-el-dreny&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-el-dreny" /> </p>
 
--  ### 👨‍💻 I’m currently learning **Embedded systems**
--  ### 📫 How to reach me **ahmedeldreny86@gmail.com**
-- <a href="https://www.linkedin.com/in/ahmedeldreny/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eldreny-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+### 
+* ### 👨‍💻 I’m currently learning **Embedded systems**
+* ### 📫 How to reach me **ahmedeldreny86@gmail.com**
+* <a href="https://www.linkedin.com/in/ahmedeldreny/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Eldreny-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 # 📌 My Projects collection
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ahmed-El-dreny&repo=C_mini_projects&theme=tokyonight)](https://github.com/Ahmed-El-dreny/C_mini_projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
