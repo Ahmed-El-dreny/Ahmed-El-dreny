@@ -21,7 +21,7 @@
   [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ahmed-El-dreny&repo=C_mini_projects&theme=tokyonight)](https://github.com/Ahmed-El-dreny/C_mini_projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Hani-Saaed&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-El-dreny&layout=compact)
 
 </details>
 
